@@ -42,7 +42,7 @@ def main():
     print()
 
     # Print large initials - 10 rows high
-    # Each row: left periods (3) + letter row + period (****) + next letter + period + next letter + right periods (3)
+    # Each row: 3 periods(...) before and after the letter and a 4 (*) asteriks after to serve as a space between the other letters
     print("..." + e0 + "........" + a0 + "........" + a0 + ".....")
     print("..." + e1 + "........" + a1 + "........" + a1 + ".....")
     print("..." + e2 + "........" + a2 + "........" + a2 + ".....")
