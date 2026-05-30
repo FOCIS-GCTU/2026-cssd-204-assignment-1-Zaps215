@@ -1,5 +1,5 @@
 # File: initials.py
-# Description: Print out my initials E, A, N in stylized large letters
+# Description: Print out my initials E, A, A in stylized large letters
 # Assignment Number: 1
 #
 # Name: Emmanuel Akolbilla Alhassan Ananga
